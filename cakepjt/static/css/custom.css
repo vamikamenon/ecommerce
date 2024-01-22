@@ -1,0 +1,168 @@
+.nav-item{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.dropdown-item{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    letter-spacing: 0.2em;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+body{
+font-family: 'Playfair Display', serif;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+}
+
+ /*** footer style ***/
+ .my_footer p{
+
+    padding-top:20px;
+    font-size:14px;
+
+}
+
+.my_footer{
+    background-color: #f8f9fa;
+    height: 60px;
+}
+
+/*** category page ***/
+
+
+.my_row_class{
+
+    padding-top: 15px;
+}
+
+.my_row_class .mx-auto{
+
+    color : #000;
+    font-size: 12px;
+}
+
+.my_image{
+
+    width: 50%;
+    height: auto;
+
+}
+
+.my_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+.my_image_padding{
+
+    padding:5px;
+}
+
+.my_bottom_margin{
+
+    margin-bottom:10px;
+
+}
+
+.card_body h4{
+
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+
+}
+
+ /*** Product Page ***/
+
+ .my_prod_row_class{
+
+    padding-top:15px;
+    padding-bottom:20px;
+
+ }
+
+.my_prod_row_class .mx-auto{
+
+    color: #000;
+    font-size:12px;
+    text-decoration: none;
+
+}
+
+.my_prod_title{
+
+    font-size: 16px;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    padding-top: 15px;
+    padding-bottom: 10px;
+
+}
+
+.my_prod_text{
+
+    padding-right:20px;
+
+}
+
+.my_title{
+
+font-size: 14px;
+
+}
+
+
+/***Search App ***/
+
+.my_search_text{
+
+    padding-top:20px;
+
+}
+
+
+/*** Cart Page ***/
+
+.my_custom_table{
+
+    min-width: 400px;
+    font-size: 14px;
+
+}
+
+.my_custom_thead{
+
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    background-color: #f8f8fa!important;
+
+}
+
+.custom_a{
+
+    text-decoration: none;
+
+}
+
+.custom_icon{
+
+    text-decoration:none;
+    color: #868e96!important;
+
+}
+
+.my_custom_button{
+
+    margin-top:5px;
+
+}
